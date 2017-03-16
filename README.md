@@ -1,4 +1,3 @@
-# holbertonschool-zero_day
-Day 0 Projects
+# Bash, vi, Emacs
 
-Bash, vi, Emacs
+Beginning Bash, vi, and Emacs projects
