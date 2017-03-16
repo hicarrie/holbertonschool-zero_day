@@ -1,4 +1,4 @@
-#0x02. vi
+# 0x02. vi
 
 0. Inserting
 1. Cutting
